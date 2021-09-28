@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi all developers 👋
+
+I mainly write code in js/ts but also know about c/c++ and python.
+
+Some apps or tools I have built:
+
+- 📚 [Paperly - A paper reader designed for researchers](https://paperly.app), the #1 PDF-reader with **WYSIWYG Citation** feature.
+- 📝 [Context-Note](https://github.com/betterRunner/context-note), a free open-source note-taking chrome extension that help you **take notes on the web with their context**.
 
 <!--
 **betterRunner/betterRunner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
