@@ -1,6 +1,6 @@
 ### Hi all developers 👋
 
-I mainly write code in js/ts but also know about c/c++ and python.
+I mainly write code in js/ts.
 
 Some apps or tools I have built:
 
