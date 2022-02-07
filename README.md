@@ -1,6 +1,6 @@
 ### Hi all developers 👋
 
-I mainly write code in js/ts.
+As a frontend developer, I mainly write code in js/ts.
 
 Some apps or tools I have built:
 
