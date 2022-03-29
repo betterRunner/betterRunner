@@ -1,8 +1,8 @@
 ### Hi all developers 👋
 
-As a frontend developer, I mainly write code in js/ts.
+Thanks for visiting.
 
-Some apps or tools I have built:
+Some apps or tools I have built that you might be interested in:
 
 - 📚 [Paperly - A paper reader designed for researchers](https://paperly.app), the #1 paper-reader with **WYSIWYG Citation** feature.
 - 📝 [Context-Note](https://github.com/betterRunner/context-note), a free open-source note-taking chrome extension that help you **take notes on the web with their context**.
