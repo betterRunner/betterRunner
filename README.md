@@ -2,6 +2,8 @@
 
 Thanks for visiting.
 
+I am a 5-year frontend engineer who love programing. I am grateful to take this skill as a living.
+
 Some apps or tools I have built that you might be interested in:
 
 - 📚 [Paperly - A paper reader designed for researchers](https://paperly.app), the first paper-reader with **WYSIWYG Citation** feature.
