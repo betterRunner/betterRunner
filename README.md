@@ -2,7 +2,7 @@
 
 Thanks for visiting.
 
-I am a 5-year frontend engineer who love programing. I am grateful to take this skill as a living.
+I am a 5-year front-end engineer who love programing. I am grateful to take this skill as a living.
 
 Some apps or tools I have built that you might be interested in:
 
