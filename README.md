@@ -12,3 +12,5 @@ Some apps or tools I have built that you might be interested in:
 - 🖋️ [ridl](https://github.com/betterRunner/ridl), A tool to translate Thrift idl metadata -> Typescript types built by Rust
 - ⌨️ [Sni-ppet](https://github.com/betterRunner/sni-ppet), a snippet vscode extension: design your own snippets and access them progressively.
 - 🎨 [d3-blockchain-model](https://github.com/betterRunner/d3-blockchain-model), a simple visualization blockchain network model inspired by Force-Directed Graph from D3.js.
+
+And this is my personal blog, welcome! https://betterrunner.github.io/
