@@ -14,4 +14,5 @@ Some apps or tools I have built that you might be interested in:
 - 🎨 [d3-blockchain-model](https://github.com/betterRunner/d3-blockchain-model), a simple visualization blockchain network model inspired by Force-Directed Graph from D3.js.
 
 My personal blog. https://betterrunner.github.io/
+
 My wechat ID: kjimlau
