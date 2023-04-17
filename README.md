@@ -6,7 +6,7 @@ I am a 5-year front-end engineer who loves programing. I am grateful to take thi
 
 Some apps or tools I have built that you might be interested in:
 
-- 📚 [Paperly - A paper reader designed for researchers](https://paperly.app), the very first paper-reader with **WYSIWYG Citation** feature.
+- 📚 [Paperly - A paper reader designed for researchers](https://paperly.app), the **very first paper-reader** with **WYSIWYG Citation** feature.
 - 📝 [Context-Note](https://github.com/betterRunner/context-note), a free open-source note-taking chrome extension that help you **take notes on the web with their context**.
 - 📖 [What makes a qualified developer](https://github.com/betterRunner/what-makes-a-qualified-developer), bunches of details about what makes a qualified developers.
 - 🖋️ [ridl](https://github.com/betterRunner/ridl), A tool to translate Thrift idl metadata -> Typescript types built by Rust
