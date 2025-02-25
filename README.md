@@ -2,7 +2,7 @@
 
 Thanks for visiting.
 
-I am a 7-year front-end engineer who loves programing. I am grateful to take this skill as a living.
+I am a 7-year full-stack engineer who loves programing. Mainly focus on front-end & nodejs & Electron.
 
 Some apps or tools I have built that you might be interested in:
 
