@@ -2,7 +2,7 @@
 
 Thanks for visiting.
 
-I am a 6-year front-end engineer who loves programing. I am grateful to take this skill as a living.
+I am a 7-year front-end engineer who loves programing. I am grateful to take this skill as a living.
 
 Some apps or tools I have built that you might be interested in:
 
@@ -12,7 +12,3 @@ Some apps or tools I have built that you might be interested in:
 - 🖋️ [ridl](https://github.com/betterRunner/ridl), A tool to translate Thrift idl metadata -> Typescript types built by Rust
 - ⌨️ [Sni-ppet](https://github.com/betterRunner/sni-ppet), a snippet vscode extension: design your own snippets and access them progressively.
 - 🎨 [d3-blockchain-model](https://github.com/betterRunner/d3-blockchain-model), a simple visualization blockchain network model inspired by Force-Directed Graph from D3.js.
-
-My personal blog. https://betterrunner.github.io/
-
-My wechat ID: kjimlau
